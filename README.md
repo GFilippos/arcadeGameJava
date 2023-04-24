@@ -1,3 +1,3 @@
 # arcadeGameJava
 
-Simple game made using Java using JPanel
+Simple brick-breaking game made using Java using JPanel
